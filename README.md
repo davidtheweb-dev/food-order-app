@@ -1,11 +1,15 @@
-# Title
+# Food order web app
 
-Description. Free to copy, modify and use.
+Food order web app created with React (w/ Context, Hooks) and dummy API REST. Allows you to see a menu, add items to the cart and checkout. Free to copy, modify and use.
 
-## Subtitle
+## Menu
 
-<!-- ![Quiz-1](https://github.com/davidtheweb-dev/quiz-game/assets/71373942/c79a2aaf-7a36-4c29-b28e-8e319483a80d) -->
+![image](https://github.com/davidtheweb-dev/food-order-app/assets/71373942/4026be3b-1fe9-4e28-8942-3ebb8b61f14d)
 
-## Subtitle
+## Cart
 
-<!-- ![Quiz-2](https://github.com/davidtheweb-dev/quiz-game/assets/71373942/ad86060d-3487-412b-aa39-5bb6f2ff739d) -->
+![image](https://github.com/davidtheweb-dev/food-order-app/assets/71373942/1f0a604a-1057-477e-af72-e1628dcdc80c)
+
+## Checkout
+
+![image](https://github.com/davidtheweb-dev/food-order-app/assets/71373942/34d5d294-fb62-45f4-aa6d-0cbd52fc4fe9)
